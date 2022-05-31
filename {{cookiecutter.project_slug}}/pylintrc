@@ -9,3 +9,6 @@ good-names=f,
 [LOGGING]
 logging-format-style=new
 logging-modules=twiggy
+
+[MESSAGES CONTROL]
+extension-pkg-whitelist = "pydantic"
